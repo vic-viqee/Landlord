@@ -1,0 +1,8 @@
+# Logs
+*.Log
+
+# Node modules (if you use npm in the future)
+node_modules/
+
+#Varcel files (generated on development)
+.vercel/
